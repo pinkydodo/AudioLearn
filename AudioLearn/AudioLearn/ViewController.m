@@ -8,6 +8,14 @@
 
 #import "ViewController.h"
 
+/*
+需求列表：
+ 1.录音，并保存pcm文件
+ 2.录音保存为.wav文件
+ 3.边录音边播放
+ 4.
+ */
+
 @interface ViewController ()
 
 @end
